@@ -45,7 +45,7 @@ export default function Home() {
       throw new Error("At least one of search term, start time, or end time is required");
     }
 
-    const response = await axios.get("http://127.0.0.1:8000/api/search/", { params });
+    const response = await axios.get("http://backend:8000/api/search/", { params });
     return response.data;
   };
 
