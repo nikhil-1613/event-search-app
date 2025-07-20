@@ -41,17 +41,16 @@ This application allows users to:
 
 ---
 
-## 📦 Setup Instructions
-
-### 1. 📥 Clone the Repository
-
-```bash
+# Step 1: Clone the repository
 git clone https://github.com/nikhil-1613/event-search-app.git
-cd event-search-app****
-**2. 🐳 Run via Docker Compose****
+cd event-search-app
+
+# Step 2: Run the app using Docker Compose
 docker-compose up --build
-🔗 Backend: http://localhost:8000/api/search/
-🔗 Frontend: http://localhost:3000/
+🔗 Frontend: http://localhost:3000
+🔗 Backend API: http://localhost:8000/api/search/
+
+
 
 
 **1. From the UI (React app)**
