@@ -19,7 +19,6 @@ This application allows users to:
 
 ---
 
----
 
 ## 🔧 Features
 
@@ -52,7 +51,7 @@ docker-compose up --build
 
 
 
-
+---
 **1. From the UI (React app)**
 Enter:
 
