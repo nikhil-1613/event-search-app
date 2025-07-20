@@ -56,7 +56,8 @@ docker-compose up --build
 **1. From the UI (React app)**
 Enter:
 
-Search String → e.g. srcaddr=159.62.125.136
+Search String → e.g. 159.62.125.136
+Search String → e.g. dstaddr=159.62.125.136
 
 Start Time → e.g. 1725850449
 
